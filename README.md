@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AKpandey99
+- 👋 Hi, I’m @tufani99
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning front end skills.
 - 💞️ I’m looking to collaborate on software stuff.
